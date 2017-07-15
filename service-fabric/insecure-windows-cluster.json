@@ -79,14 +79,12 @@
         },
         "supportLogStorageAccountName": {
             "type": "string",
-            "defaultValue": "mstaessensfwinlogs",
             "metadata": {
                 "description": "Name for the storage account that contains support logs from the cluster"
             }
         },
         "applicationDiagnosticsStorageAccountName": {
             "type": "string",
-            "defaultValue": "mstaessensfwindiag",
             "metadata": {
                 "description": "Name for the storage account that contains application diagnostics data from the cluster"
             }
